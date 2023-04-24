@@ -1,0 +1,11 @@
+{
+    "name": "irinasavina/otus-package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Irina Vasileva",
+            "email": "irinasav24@gmail.com"
+        }
+    ],
+    "require": {}
+}
